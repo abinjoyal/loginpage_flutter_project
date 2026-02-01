@@ -5,7 +5,7 @@ class Task1 extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(appBar: AppBar(title: const Text('Home page'),
+    return Scaffold(appBar: AppBar(title: const Text('Home'),
     centerTitle: true,
     backgroundColor: const Color.fromARGB(156, 5, 84, 174),
     leading: const Icon(Icons.menu),
