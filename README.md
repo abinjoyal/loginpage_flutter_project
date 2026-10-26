@@ -45,14 +45,6 @@ A modern, responsive, and sleek dark-themed login and sign-up user interface bui
    flutter run
    ```
 
-## Contributing
-
-1. Fork the project repository.
-2. Create your feature branch (`git checkout -b feature/NewFeature`).
-3. Commit your changes (`git commit -m 'Add NewFeature'`).
-4. Push to the branch (`git push origin feature/NewFeature`).
-5. Open a Pull Request.
-
 ## License
 
 Distributed under the MIT License.
